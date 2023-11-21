@@ -1,8 +1,7 @@
 # ReviewRevealer: App review analysis through sentiment analysis and topic modeling on the example of ChatGPT
 
 
-This repository documents the data science project “ReviewRevealer” by [Janice Schönfeld](https://www.linkedin.com/in/janice-schönfeld/), [Andrii Ivanytskyi](https://www.linkedin.com/in/andrii-ivanytskyi-908364292/), and [Martje Buss](https://www.linkedin.com/in/martje-buss-104550217/?originalSubdomain=de) (last updated: 22.11.2023) from the SPICED Academy Data Science Bootcamp, cohort: riceregression. It includes all data, scripts, and visualizations that were used for the project presentation (LINK). There is a separate repository for the streamlit dashboard which can be found here:
-If you have any questions, please contact: XXX
+This repository documents the data science project “ReviewRevealer” by [Janice Schönfeld](https://www.linkedin.com/in/janice-schönfeld/), [Andrii Ivanytskyi](https://www.linkedin.com/in/andrii-ivanytskyi-908364292/), and [Martje Buss](https://www.linkedin.com/in/martje-buss-104550217/?originalSubdomain=de) (last updated: 22.11.2023) from the SPICED Academy Data Science Bootcamp, cohort: riceregression. It includes all data, scripts, and visualizations that were used for the project presentation (LINK). There is a separate repository for the streamlit dashboard which can be found here: https://github.com/dschjanice/streamlit-review_revealer
 
 ### The way to success:
 
